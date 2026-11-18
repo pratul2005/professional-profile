@@ -5,3 +5,6 @@ Strengthen Python programming, Git workflows, and data structures through regula
 
 ## Long-term goal
 Build a career in software development, with opportunities to work on machine learning applications.
+
+## Additional long-term goal
+Contribute to open-source software and collaborate on projects that solve practical problems.
