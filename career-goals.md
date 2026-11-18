@@ -8,3 +8,4 @@ Build a career in software development, with opportunities to work on machine le
 
 ## Additional long-term goal
 Contribute to open-source software and collaborate on projects that solve practical problems.
+My additional goal is to contribute to open-source projects.
